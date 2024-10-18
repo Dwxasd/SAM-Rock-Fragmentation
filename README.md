@@ -34,7 +34,7 @@ SAM in rocks fragments looks like this:
 
 ## How to use
 
-The notebook *demo.ipynb* has been implemented where the tool can be used through the Google Colab platform, just open this **[link](https://colab.research.google.com/github/Yairama/SAM-Rock-Fragmentation/blob/main/demo.ipynb)**, **Change runtime type to GPU** and execute all the cells, finally in the last cell a link will be generated where the tool can be used. Please be patient with the loading times, being a free platform in the cloud it may take some time to run.
+The notebook *demo.ipynb* has been implemented where the tool can be used through the Google Colab platform, just open this **[link](https://colab.research.google.com/github/Dwxasd/SAM-Rock-Fragmentation/blob/main/demo.ipynb)**, **Change runtime type to GPU** and execute all the cells, finally in the last cell a link will be generated where the tool can be used. Please be patient with the loading times, being a free platform in the cloud it may take some time to run.
 
 https://user-images.githubusercontent.com/45445692/232190032-27ef4c73-e323-4532-8355-a51cd5de62c8.mp4
 
